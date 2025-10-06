@@ -39,6 +39,5 @@ The objective of the present report is to study factors like salary, satisfactor
  - [Employee-Attrition-Analysis_DT](Employee-Attrition-Analysis_DT.ipynb) -- Project Source Code File
 
 
-
-### Trademarks
-All other trademarks referenced herein are the property of their respective owners.
+## Author 
+Hyndavi Thota
